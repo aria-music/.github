@@ -10,4 +10,6 @@ Japanese Text-to-speech bot for Discord, powered by VOICEVOX
 
 ## [Aria Music Player](https://github.com/aria-music/aria-core) (We're working on v2!)
 
+Multi-user, session-shared web-based music player, with various clients support (Discord, Web, Amazon Alexa, VSCode...)
+
 [![](https://img.youtube.com/vi/BdDe02ajDGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=BdDe02ajDGw)
