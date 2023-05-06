@@ -1,6 +1,6 @@
 # Aria Music
 
-We provides Discord Voice QoL Bots.
+We provide Discord Voice QoL Bots.
 
 ## [Zundacord](https://github.com/aria-music/zundacord)
 
